@@ -86,7 +86,7 @@
 
                 ?>
 
-                <h1>$
+                <h1>DA
                     <?php echo $total_revenue; ?>
                 </h1>
                 <br />
